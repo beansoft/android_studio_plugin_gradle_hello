@@ -36,7 +36,7 @@ tasks {
     }
 }
 
-// Below for IDEA Dev
+// Below for IDEA Dev optional configuration
 // https://youtrack.jetbrains.com/issue/IDEA-296777
 // Workaround for https://youtrack.jetbrains.com/issue/IDEA-285839/Classpath-clash-when-using-coroutines-in-an-unbundled-IntelliJ-plugin
 configurations.all {
